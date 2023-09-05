@@ -1,0 +1,153 @@
+/* Container Styles */
+.container {
+    background: #2D1A48;
+    backdrop-filter: blur(2px);
+    width: 1440px;
+    height: 1024px;
+  }
+  
+  /* Imagem de Fundo */
+  .background-img {
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+  }
+
+
+/* Texto - "Faça Login e entre em nosso time" */
+.login-text {
+    width: 645px;
+    left: 110px;
+    top: 110px;
+    position: absolute;
+    color: #F806CC;
+    text-shadow: 1px 5px 4px rgba(0, 0, 0, 0.56);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 63px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    }
+
+
+      
+  
+  /* Outer Box */
+  .outer-box {
+    width: 1348px;
+    height: 929px;
+    left: 52px;
+    top: 51px;
+    position: absolute;
+    background: rgba(46, 2, 73, 0.18);
+    box-shadow: 10px 10px 30px 11px rgba(0, 0, 0, 0.34);
+    border-radius: 82px;
+  }
+
+  /*Gif*/
+  .gif{
+    background: url(https://s3-alpha-sig.figma.com/img/c71f/d539/715a432bf391593f5adcba37fe90287d?Expires=1694995200&Signature=SphLvpZjyV4VGYEmqeqjYmDUCqRJxfnDmqFGiVeiH42EpRrEs4mHrObMg0OFMKyiJPaPZVBaAZBEO59FclfL4wI8TvRCpN8WUAvsW1EHhfoW3Mz6Zw6qEqDOYan49dGm~A-43DFrPNLSwzrPekx3dmVLBLKEIBKxdrZvqIF5b9jX2ZjzxZJ2EHNMf3Fo4EULehzGfmAM8qc7oE~XPQps8rWbTK2W29BFajci1QJr7NDZMar81xk6epAlDUlpUC791AM27ZNU48Xxsvp27K~B~ouZcTqpqjBeSL~nuPpZFGVabShN9ww-9pMSuUf407VlpTgQV~NaOgY~mlPanIfzVA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4), rgba(211, 211, 211, 0) 0% / cover no-repeat;
+    width: 210px;
+    height: 200px;
+    flex-shrink: 0;
+    left: 75px;
+    top: 777px;
+    position: absolute
+  }
+  
+
+  /* caixa de Login */
+  .login-box {
+    width: 438px;
+    height: 676px;
+    left: 909px;
+    top: 131px;
+    position: absolute;
+    background: rgba(87, 10, 87, 0.29);
+    box-shadow: 0px 0px 39px 12px rgba(0, 0, 0, 0.20);
+    border-radius: 37px;
+  }
+  
+  /* Texto - "LOGIN" */
+  .login-heading {
+    left: 137px;
+    top: 57px;
+    position: absolute;
+    color: #F806CC;
+    font-size: 52px;
+    font-family: Inter;
+    font-weight: 900;
+    word-wrap: break-word;
+  }
+  
+  /* Input Fields */
+  .input-field {
+    width: 352px;
+    height: 49px;
+    left: 43px;
+    position: absolute;
+    background: rgba(208.25, 7.81, 145.37, 0.45);
+    box-shadow: 0px 5px 9px 3px rgba(0, 0, 0, 0.28);
+    border-radius: 4px;
+  }
+  
+  /* Label - "Usuário" */
+  .label-usuario {
+    left: 53px;
+    top: 215px;
+    position: absolute;
+    color: #C852B2;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 900;
+    word-wrap: break-word;
+  }
+  
+  /* Label - "Senha" */
+  .label-senha {
+    left: 53px;
+    top: 325px;
+    position: absolute;
+    color: #C852B2;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 900;
+    word-wrap: break-word;
+  }
+  
+  /* Botão */
+  .button {
+    width: 234px;
+    height: 120px;
+    left: 98px;
+    top: 471px;
+    position: absolute;
+    background: #F806CC;
+    box-shadow: 3px 4px 4px 2px rgba(0, 0, 0, 0.31);
+    border-radius: 20px;
+  }
+  
+  /* Texto no botão - "LOGIN" */
+  .button-text {
+    left: 133px;
+    top: 499px;
+    position: absolute;
+    color: #2E0249;
+    font-size: 52px;
+    font-family: Inter;
+    font-weight: 900;
+    word-wrap: break-word;
+  }
+  
+  /* Imagem */
+  .image {
+    width: 533px;
+    height: 547px;
+    left: 49px;
+    top: 433px;
+    position: absolute;
+  }
+  
+
